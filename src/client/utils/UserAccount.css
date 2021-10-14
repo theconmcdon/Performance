@@ -1,0 +1,48 @@
+
+.thebody {
+    
+    background-image: url(https://gregorlove.com/site/assets/files/5215/beach-house-2018-08-05b.1000x0-is.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+
+    
+   
+}
+.main-body {
+    padding-top: 30px;
+    
+    width: 100%;
+    
+}
+
+
+.customCard {
+    padding: auto;
+    margin: auto;   
+    width: 100%;   
+    display: flex;
+    flex-direction: column;
+    background-color: #000000;  
+}
+
+
+
+.editimage {
+    margin: 0;
+    height: 200px;
+    padding: 0;
+}
+
+    
+
+
+
+
+
+.opac {
+    opacity: 80%;
+}
+

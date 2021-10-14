@@ -1,0 +1,31 @@
+
+
+
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+
+.card-img-overlay{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    top: auto;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    opacity: 80%;
+    position: absolute;
+     
+    
+}
+
+.performanceHeader{    
+     text-shadow: 5px 5px 5px black; 
+     opacity: 90%;
+    }
+
+
+.postHeader{    
+    text-shadow: 5px 5px 5px black; 
+    opacity: 90%;
+}
+   
+
